@@ -13,7 +13,7 @@ header_pages:
 github:
   username: Don-Assamongkol1
 
-show_excerpts: true
+show_excerpts: false
 
 kramdown:
   input: GFM
